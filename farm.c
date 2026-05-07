@@ -1,3 +1,5 @@
+// 基礎プログラミングII 第3回 Scrummyプロジェクト
+
 #define SENSOR_BIT 9
 #include <SchooMyUtilities.h>
 #include <OneWire.h>
